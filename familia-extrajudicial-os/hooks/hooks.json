@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'familia-extrajudicial-os carregado — preparação pelo advogado dos interessados; corpus local sujeito a revisão humana'",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}

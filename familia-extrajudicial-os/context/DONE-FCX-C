@@ -1,0 +1,7 @@
+DONE-FCX-C
+
+G1: 57 controles C1 (U+0093/U+0094/U+0096) em lc-227 (54), lei-10169 (2) e estatuto-oab (1) mapeados para “ ” – (cp1252); cabeçalhos agora dizem cp1252. Prova: 0 caracteres U+0080–U+009F nos 3 arquivos.
+
+G2: CTN art. 35 revogado agora em par ~~…~~ (caput + I–III + parágrafo único causa mortis); ~~ de 9 ímpar → 10 par. Conferido contra <strike> de l5172.htm.
+
+Nada commitado. NUNCA push.

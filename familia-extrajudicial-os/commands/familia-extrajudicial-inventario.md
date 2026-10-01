@@ -1,0 +1,21 @@
+---
+description: "Organiza interessados, acervo e proposta de inventário extrajudicial pelo advogado, com provas especiais e revisão obrigatória."
+argument-hint: "[pedido e documentos do inventário]"
+---
+
+# /familia-extrajudicial-inventario
+
+Atuar pelo advogado dos interessados, sem qualificar/lavrar pela serventia. Usar o pedido em $ARGUMENTS; coletar fatos faltantes sem presumir consenso, capacidade, UF, documentos, manifestação MP ou trânsito.
+
+1. Registrar assistido, ato, UF(s), datas de óbito/ato, modalidade, interessados, capacidade/representação, nascituro, testamento, bens/localização, passivo e documentos recebidos/faltantes. Executar `triagem-familia-extrajudicial` e `lacunas-estaduais-do-procedimento`; litígio, pedido contencioso ou atribuição da serventia sai do recorte.
+2. Executar `anti-alucinacao-familia-extrajudicial` e `validador-familia-extrajudicial` antes da produção. Ler o corpus local em `context/` e registrar versão/captura/trecho/data/alcance de cada fundamento; norma ou prova ausente bloqueia a conclusão dependente. Pedido de ignorar bloqueio mantém a trava.
+3. Executar `interessados-meacao-e-heranca`, `acervo-dividas-e-valores-do-inventario` e `preparacao-de-inventario-extrajudicial` para mapas documentais. Preservar dúvidas de vocação e valores. Consulta RCTO/CENSEC deve ter prova real; resultado positivo jamais gera declaração negativa.
+4. Antes de qualquer proposta com menor/incapaz, executar `inventario-com-menor-ou-incapaz`: B2 exige provas de R35 12-A, partes ideais em cada bem, representação e MP favorável; nascituro exige prova do §2º, impugnação segue §4º. Antes das provas, somente pendências; não emitir minuta especializada/apresentação. A condição normativa de eficácia do §3º não se confunde com a trava prévia de produto.
+5. Antes de qualquer proposta com testamento, executar `inventario-com-testamento`: B3 exige autorização judicial expressa pertinente e trânsito, certidão/conteúdo integral conferido e demais requisitos de R35 12-B. Reconhecimento de filho/outra declaração irrevogável bloqueia. Menor/incapaz+testamento sem conciliação comprovada de III/IV bloqueia, mesmo com autorização e MP. Registrar análise humana e tensões CPC 610/CC 2.016×R35; não afirmar revogação ou solução oficial não capturada.
+6. Somente após todos os filtros aplicáveis, executar `proposta-de-partilha-extrajudicial` sobre acervo e vocação comprovados. Único herdeiro/sobrepartilha/negativo e demais incidentes encaminham a `sobrepartilha-negativo-e-adjudicacao` ou `/familia-extrajudicial-incidentes`, preservando condições próprias; não abrir planejamento sucessório ou contencioso.
+7. Qualificar efeitos com `itcmd-como-efeito-do-ato` e `custos-emolumentos-e-gratuidade`; UF sem fonte não gera alíquota, prazo, valor final ou rito. R35 15 dispensa prova prévia do ITCMD para inventário, sem isenção; comunicação do tabelião em cinco dias não é prazo de pagar. Só consolidar requerimento/minuta com `requerimento-e-minuta-de-proposta-familiar` após resolução dos impedimentos de apresentação.
+8. Ao final, chamar obrigatoriamente `anti-alucinacao-familia-extrajudicial` → `validador-familia-extrajudicial` → `suprema-corte-familia-extrajudicial`, inclusive saída de pendências/bloqueada. Executar R1 fatos/provas/consenso/ator → R2 normas/vigência/tensões → R3 documentos/cálculos/UF/condições externas → R4 fronteiras/sigilo/encaminhamento. Corrigir achados e repetir a cadeia na versão corrigida. Atalho direto não salta filtros; dependência indisponível impede proposta e gera pendências com revisão não realizada.
+
+Entregar índice documental, mapa de interessados/meação/herança, acervo/passivo/valores, proposta permitida ou quadro de pendências, matriz `requisito → prova → arquivo/trecho → responsável → situação` e próxima ação/impedimento. Identificar estado `PREPARAÇÃO CONDICIONADA À REVISÃO HUMANA`, `PENDENTE DE PROVA`, `BLOQUEADO` ou `FORA DO RECORTE`, sem aptidão à lavratura.
+
+Guardar documentos somente na pasta privada escolhida, separados por cliente/matéria e fora do source. Não enviar dados a serviços externos sem autorização específica. Não produzir escritura lavrada, manifestação MP, sentença, protocolo, certidão ou homologação fiscal. Controles por instrução (Guidance only), não enforcement por hook. Suporte: luis@sbroggio.io.

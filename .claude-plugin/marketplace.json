@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "familia-extrajudicial-os-marketplace",
+  "description": "Preparação documental pelo advogado dos interessados em divórcio, união estável e inventário extrajudiciais, com limites normativos explícitos.",
+  "owner": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "familia-extrajudicial-os",
+      "source": "./familia-extrajudicial-os",
+      "description": "Preparação documental pelo advogado dos interessados em divórcio, união estável e inventário extrajudiciais, com limites normativos explícitos.",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      }
+    }
+  ]
+}

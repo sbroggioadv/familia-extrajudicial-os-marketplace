@@ -1,0 +1,9 @@
+{
+  "name": "familia-extrajudicial-os",
+  "version": "0.1.0",
+  "description": "Preparação documental pelo advogado dos interessados em divórcio, união estável e inventário extrajudiciais, com limites normativos explícitos.",
+  "author": {
+    "name": "Luis Sbroggio",
+    "email": "luis@sbroggio.io"
+  }
+}
