@@ -12,6 +12,6 @@ O repositório foi preparado localmente; a URL ficará disponível após a publi
 
 O plugin oferece 32 skills e 14 comandos. O advogado revisa os documentos e as fontes antes do uso. O plugin não pratica atos da serventia nem substitui decisões de tabeliães, registradores, Ministério Público ou Poder Judiciário. Consulte o [README do plugin](familia-extrajudicial-os/README.md).
 
-## Licenças
+## Licença
 
-A documentação da raiz deste marketplace segue a licença MIT em `LICENSE`. O plugin mantém sua licença comercial própria em [LICENCA](familia-extrajudicial-os/LICENCA).
+Produto vendido sob licença de uso: o código está em repositório público para viabilizar a instalação, mas não é software livre. Condições em [LICENCA](LICENCA), idêntica à do plugin.
