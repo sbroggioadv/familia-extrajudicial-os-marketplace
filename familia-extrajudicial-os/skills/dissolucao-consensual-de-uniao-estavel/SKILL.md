@@ -42,7 +42,7 @@ Leia os anexos em `context/` da raiz deste plugin antes de usar cada fundamento.
 
 Registre para cada fundamento: arquivo, diploma, dispositivo, trecho literal, versão/captura, data do fato/ato, alcance e pendência. Normalize somente espaços/quebras de linha na conferência; preserve negadores, ressalvas e redações revogadas identificadas. Separe declaração dos interessados, prova documental, inferência e norma. Ausência de documento não prova inexistência do fato. Nenhuma norma, prazo, rito, alíquota ou tabela estadual será presumida; identifique UF, fonte local faltante, responsável externo e etapa impedida.
 
-Persistência de documentos apenas na pasta privada autorizada, separada por cliente/matéria, fora do source; use dados mínimos. Não envie acervo a serviço externo. Suporte do produto: luis@sbroggio.io, sem anexar dados do caso.
+Persistência de documentos apenas na pasta privada autorizada, separada por cliente/matéria, fora do source; use dados mínimos. Não envie acervo a serviço externo. Suporte do produto: suporte@iapx.pro, sem anexar dados do caso.
 
 **Guidance only:** estas instruções dependem da execução das skills; não são hook nem prova de enforcement. Antes de produzir conteúdo jurídico, execute `anti-alucinacao-familia-extrajudicial` e depois `validador-familia-extrajudicial` sobre premissas/fontes. **Ao final de toda saída**, inclusive pendência, bloqueio e comando direto, execute nesta ordem:
 

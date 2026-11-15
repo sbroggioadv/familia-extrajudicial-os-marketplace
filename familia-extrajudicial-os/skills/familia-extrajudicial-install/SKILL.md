@@ -30,4 +30,4 @@ Orientar: invocar `/familia-extrajudicial-master` e informar ato, interessado as
 
 Verificar a presença local do master, guard, validador e Suprema Corte antes de afirmar disponibilidade. Cada um é controle por instrução (**Guidance only**), não enforcement por hook. Não presumir guard global instalado. Ausência de alguma skill é dependência pendente, nunca autorização para contornar revisão.
 
-Fechar com configuração confirmada ou pendência, caminho de persistência efetivo e próxima ação. Suporte: **luis@sbroggio.io**. Não prometer publicação, sincronização ou URL de marketplace não confirmadas. Instalação não emite selo normativo e não declara cabimento.
+Fechar com configuração confirmada ou pendência, caminho de persistência efetivo e próxima ação. Suporte: **suporte@iapx.pro**. Não prometer publicação, sincronização ou URL de marketplace não confirmadas. Instalação não emite selo normativo e não declara cabimento.

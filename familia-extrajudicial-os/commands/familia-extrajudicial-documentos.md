@@ -17,4 +17,4 @@ Separadamente, conferir prova da representação legal do incapaz (B2); o mandat
 
 Finalizar obrigatoriamente com `suprema-corte-familia-extrajudicial`, R1→R4 default-on (fatos/provas/ator; fundamentos/vigência/tensões; documentos/UF/condições; sigilo/postura/encaminhamento), registrando achados. Emitir estado `PREPARAÇÃO CONDICIONADA À REVISÃO HUMANA`, `PENDENTE DE PROVA`, `BLOQUEADO` ou `FORA DO RECORTE`, com motivo, fonte/data de corte, documentos recebidos/faltantes, quadro requisito → prova → arquivo/trecho → responsável → situação e próxima providência/impedimento. Não anunciar aprovação da escritura ou aptidão à lavratura. Estes gates são instruções ao agente (guidance only), não execução automática por hook.
 
-Suporte: luis@sbroggio.io.
+Suporte: suporte@iapx.pro.

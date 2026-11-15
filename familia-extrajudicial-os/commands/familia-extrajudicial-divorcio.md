@@ -17,4 +17,4 @@ Atuar como apoio ao advogado dos interessados. Usar o pedido e documentos fornec
 
 Entregar ato/ator/UF(s)/datas/modalidade, fontes e corte documental, recebidos/faltantes, matriz `requisito → prova → arquivo/trecho → responsável → situação`, cláusulas somente quando permitidas, revisão e próxima providência/impedimento. Usar `PREPARAÇÃO CONDICIONADA À REVISÃO HUMANA`, `PENDENTE DE PROVA`, `BLOQUEADO` ou `FORA DO RECORTE`. Nunca “apto à lavratura”, escritura aprovada, registro realizado ou cabimento inquestionável. A averbação futura depende do traslado real e do RCPN do assento de casamento; não produzir fé pública, assinatura, ato judicial, recolhimento ou protocolo fictícios.
 
-Guidance only: este comando instrui a execução pelo agente; não há enforcement por hook nem garantia jurídica ou operacional. Suporte do produto: luis@sbroggio.io.
+Guidance only: este comando instrui a execução pelo agente; não há enforcement por hook nem garantia jurídica ou operacional. Suporte do produto: suporte@iapx.pro.

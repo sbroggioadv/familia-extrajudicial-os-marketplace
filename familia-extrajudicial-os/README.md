@@ -1,6 +1,6 @@
 # Família Extrajudicial OS
 
-`familia-extrajudicial-os` · versão 0.1.0 · Luis Sbroggio.
+`familia-extrajudicial-os` · versão 0.1.1 · Luis Sbroggio.
 
 Estrutura inicial de um plugin para o **advogado dos interessados**, voltado à preparação de divórcio, união estável e inventário extrajudiciais. A entrega planejada abrange dossiê documental, requerimento, minuta de proposta para revisão humana e orientação pós-escritura.
 
@@ -52,4 +52,4 @@ Os arquivos em `context/` preservam os textos, índices, marcadores e notas do d
 
 Cada futuro `SKILL.md` deve ter **até 11.004 bytes UTF-8**, medidos com `wc -c`, e ser o único arquivo de sua pasta. Guard anti-alucinação, validador normativo e revisão R1→R4 são responsabilidades distintas a implementar e verificar nos caminhos de execução, inclusive comandos diretos.
 
-Suporte: **luis@sbroggio.io**. Uso sujeito à [LICENCA](LICENCA).
+Suporte: **suporte@iapx.pro**. Uso sujeito à [LICENCA](LICENCA).
